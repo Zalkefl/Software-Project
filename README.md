@@ -8,8 +8,8 @@ script.js - This file contains the JavaScript code for the webpage.
 Usage
 
 To use the Physics Calculator, simply open the index.html file in a web browser.
-Features
 
+Features:
 The calculator allows users to perform various calculations related to physics. The navigation bar contains links to the homepage, an "About Us" page, a page on how to use the calculator, the Quadratic Formula, and a form page.
 
 Here are the following links to our external documentation:
